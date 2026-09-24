@@ -1,7 +1,7 @@
 # Customer Churn Prediction - End to End ML Project
 
 An End-to-End Machine Learning project to predict Telco Customer Churn.
-### Streamlit: https://customerchurnprediction-9ufpblcsuwaddmyx8fuvkq.streamlit.app
+### Streamlit link (customer_churn_predictor): https://customerchurnprediction-9ufpblcsuwaddmyx8fuvkq.streamlit.app
 
 ###  Problem Statement
 To predict whether a customer will churn (leave the company) using Telco dataset.
