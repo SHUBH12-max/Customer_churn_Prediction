@@ -21,7 +21,7 @@ I trained and compared 4 classification models on the Telco dataset:
 Final model deployed in Streamlit is **Gradient Boosting Classifier** as it gave the highest accuracy.
 
 | Model | Accuracy |
-| Gradient Boosting | ~82% |
+| Gradient Boosting | ~80.62% |
 
 ### Project Workflow
 1.  **SQL:** Data extraction and querying from Telco Database
